@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Billgeneration {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int pizzaUnitPrice = 100;
 		int puffUnitPrice = 20;
 		int coolDrinkUnitPrice = 10;
